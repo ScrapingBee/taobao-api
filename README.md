@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="taobao-api" />
+    <img src="https://github.com/user-attachments/assets/5499ffa0-648b-4417-ba5c-a50658321d74" alt="taobao-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/taobao-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/taobao-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/taobao-api.svg)](LICENSE)
